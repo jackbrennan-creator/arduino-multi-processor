@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For DataFlow
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+node	KEYWORD1
+node_ref	KEYWORD1
+connection	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init_dataflow	KEYWORD2
+send_to	KEYWORD2
+send_int_to	KEYWORD2
+send_long_to	KEYWORD2
+send_float_to	KEYWORD2
+receive_on	KEYWORD2
+receive_int_on	KEYWORD2
+receive_long_on	KEYWORD2
+receive_float_on	KEYWORD2
+this_node	KEYWORD2
+activate_node	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+min_node	LITERAL1
+max_node	LITERAL1
+nodes	LITERAL1
+
