@@ -6,4 +6,4 @@ To use this software, download the library folder as a ZIP file and add it to yo
 
 Remember to build the hardware first!
 
-![The Hardware]()
+![The Hardware](https://github.com/jackbrennan-creator/arduino-multi-processor/blob/master/2-2.png)
